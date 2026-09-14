@@ -41,7 +41,7 @@ void loop() {
 ### Library
 - DHT11
 
-### Percobaan 2A - Kendali Aktuator Relay<hr>
+### Percobaan 1B - Kendali Aktuator Relay<hr>
 
 Pada percobaan kedua, kita akan mengkombinasikan aktuator Relay dengan rangkaian percobaan pertama untuk mengendalikan sebuah LED sebagai indikator apabila nilainya melewati batas.
 
@@ -157,7 +157,7 @@ if (isnan(t) || isnan(h)) {
 ...
 ```
 
-### Percobaan 2A <hr>
+### Percobaan 1B <hr>
 
 >Modifikasi program agar menggunakan dua ambang batas (histerisis), misalnya aktuator menyala pada suhu di atas 30°C dan baru mati pada suhu di bawah 28°C, dan berikan penjelasan di setiap baris kode nya dalam bentuk README.md!
 
