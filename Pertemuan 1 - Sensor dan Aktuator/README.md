@@ -2,7 +2,7 @@
 ## Penjelasan Kode
 ### Percobaan 1A - Akuisis Data Sensor DHT22 <hr>
 
-Pada percobaan pertama, kita akan menguji sebuah sensor DHT11 untuk membaca suhu ruangan selama beberapa detik.
+Pada percobaan pertama, kita akan menguji sebuah sensor DHT22 untuk membaca suhu ruangan selama beberapa detik.
 
 ```cpp
 #include <DHT11.h> // Import  library DHT11
