@@ -1,4 +1,4 @@
-# Modul 1 - Konfigurasi Jaringan
+# Modul 2 - Konfigurasi Jaringan
 ## Penjelasan Kode
 ### Percobaan 2A - Konfigurasi Mode Station (STA) <hr>
 
@@ -306,13 +306,13 @@ digitalWrite(ledPin, HIGH);
 <br>
 
 ## Dokumentasi
-### Percobaan 1A
+### Percobaan 2A
 
 <div align="center">
     <img src="dokumentasi/percobaan1_sta.jpg" width="400"/>
 </div>
 
-### Percobaan 2A
+### Percobaan 2B
 
 <div align="center">
     <img src="dokumentasi/percobaan2_ap.jpg" width="400"/>
