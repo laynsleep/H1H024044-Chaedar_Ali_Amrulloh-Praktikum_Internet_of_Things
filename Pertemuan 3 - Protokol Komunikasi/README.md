@@ -413,12 +413,11 @@ doc["timelapse"] = millis();
 ### Percobaan 3A
 
 <div align="center">
-    <img src="dokumentasi/percobaan1_sta.jpg" width="400"/>
+    <img src="dokumentasi/percobaan1_http.jpg" width="400"/>
 </div>
 
 ### Percobaan 3B
 
 <div align="center">
-    <img src="dokumentasi/percobaan2_ap.jpg" width="400"/>
-    <img src="dokumentasi/percobaan2_terhubung.jpg" width="400"/>
+    <img src="dokumentasi/percobaan2_mqtt.jpg" width="400"/>
 </div>
